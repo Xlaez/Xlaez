@@ -1,4 +1,4 @@
-### Hi there 👋 https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc am Utibeabasi!
+### Hi there 👋 <img src="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc" width="30px"> am Utibeabasi!
 
 <!--
 **Xlaez/Xlaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
