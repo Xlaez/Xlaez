@@ -11,3 +11,4 @@ Coding happens to be my work, leisure activity and also hobby 😁😁
 
   <p> <img src="https://iconape.com/wp-content/files/kd/121943/svg/Microsoft_Project__2019-present_.svg" height="20" width="20"/>Projects </p>
   <p>Too numerous to give details .... 😁😁 </p>
+  <p><a href="https://stackoverflow.com/users/18433959/xlaez-kamou">Link to Stack Overflow profile</a></p>
