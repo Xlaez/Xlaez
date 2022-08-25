@@ -1,13 +1,22 @@
 ### Welcome!! 👋🏾👋🏾
 <hr/>
 <ul>
- <li>My name is Utibe abasi and am a software developer</li>
+ <li>
+  <img style="float: left;" src="https://cdn-icons-png.flaticon.com/128/1049/1049443.png" width="30" height="30"/>
+  <span style="float: right;">My name is Utibe abasi and am a software developer</span>
+ </li>
   <li>
     <img style="float: left;" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
    <span style="float: right;" > My favourite programming language is typescript</span>
   </li>
-  <li></li>
-  <li></li>
+  <li>
+   <img style="float: left;" src="https://cdn-icons-png.flaticon.com/128/7328/7328746.png" width="30" height="30"/>
+  <span style="float: right;" >I build APIs, web and desktop apps</span>
+ </li>
+  <li>
+    <img style="float: left;" src="https://cdn-icons-png.flaticon.com/128/7773/7773975.png" width="30" height="30"/>
+   <span style="float: right;" >I am a lover of logic,physics and mathematics</span>
+ </li>
   <li></li>
 </ul>
 
