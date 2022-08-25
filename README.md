@@ -2,8 +2,8 @@
 <hr/>
 <ul>
  <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
-  <img style="float: left; padding" src="https://cdn-icons-png.flaticon.com/128/1049/1049443.png" width="30" height="30"/>
-  <span style="float: right;">My name is Utibe abasi and am a software developer</span>
+  <img style="" src="https://cdn-icons-png.flaticon.com/128/1049/1049443.png" width="30" height="30"/>
+  <span style="">My name is Utibe abasi and am a software developer</span>
  </li>
   <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
     <img style="float: left;" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
