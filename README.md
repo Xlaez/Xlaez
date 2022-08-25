@@ -2,7 +2,7 @@
 <hr/>
 <div>
  <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
-  <span style="">My name is Utibe abasi and am a software developer</span>
+  <span style="">My name is Utibe abasi and I am a software developer</span>
   <img  src="https://cdn-icons-png.flaticon.com/128/1049/1049443.png" width="30" height="30"/>
  </div>
  <br/>
@@ -52,8 +52,9 @@
 
 ### Experience 👨🏿‍💼
 
-- Web developer with Chrisean Global Resources June 2021
-- Backend developer at Future Labs October 2021 - February 2022
-- Software developer Intern at BBWE July 2022  till date
+<div style="display: flex; flex-direction: column;">
+<span>Web developer with Chrisean Global Resources June 2021</span>
+<span>Backend developer at Future Labs October 2021 - February 2022</span>
+<span>Software developer Intern at BBWE July 2022  till date</span>
 
-<span style="color: #040428; ">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
+<span style="color: blue; ">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
