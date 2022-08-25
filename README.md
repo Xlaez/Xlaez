@@ -3,8 +3,8 @@
 <ul>
  <li>My name is Utibe abasi and am a software developer</li>
   <li>
-    <span style="float: left;" > My favourite programming language is typescript</span>
-    <img style="float: right;" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
+    <img style="float: left;" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
+   <span style="float: right;" > My favourite programming language is typescript</span>
   </li>
   <li></li>
   <li></li>
