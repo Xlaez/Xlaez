@@ -2,20 +2,20 @@
 <hr/>
 <ul>
  <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
-  <img style="padding: 10px 1px 0 1px" src="https://cdn-icons-png.flaticon.com/128/1049/1049443.png" width="30" height="30"/>
+  <img  src="https://cdn-icons-png.flaticon.com/128/1049/1049443.png" width="30" height="30"/>
   <span style="">My name is Utibe abasi and am a software developer</span>
  </li>
   <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
-    <img style="padding: 10px 1px 0 1px" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
    <span style="" > My favourite programming language is typescript</span>
   </li>
   <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
-   <img style="padding: 10px 1px 0 1px" src="https://cdn-icons-png.flaticon.com/128/7328/7328746.png" width="30" height="30"/>
+   <img  src="https://cdn-icons-png.flaticon.com/128/7328/7328746.png" width="30" height="30"/>
   <span style="" >I build APIs, web and desktop apps</span>
  </li>
   <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
-    <img style="padding: 10px 1px 0 1px" src="https://cdn-icons-png.flaticon.com/128/7773/7773975.png" width="30" height="30"/>
-   <span style="" >I am a lover of logic,physics and mathematics</span>
+    <img src="https://cdn-icons-png.flaticon.com/128/7773/7773975.png" width="30" height="30"/>
+   <span style="padding-bottom: -5px" >I am a lover of logic,physics and mathematics</span>
  </li>
   <li></li>
 </ul>
