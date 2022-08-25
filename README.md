@@ -1,33 +1,33 @@
 ### Welcome!! 👋🏾👋🏾
 <hr/>
 <ul>
- <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
+ <li style="display: flex; align-items:center; justify-content:center; gap: 1rem; list-style: none;">
   <img  src="https://cdn-icons-png.flaticon.com/128/1049/1049443.png" width="30" height="30"/>
   <span style="">My name is Utibe abasi and am a software developer</span>
  </li>
  <br/>
-  <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
+ <li style="display: flex; align-items:center; justify-content:center; gap: 1rem; list-style: none;">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
    <span style="" > My favourite programming language is typescript</span>
   </li>
   <br/>
-  <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
+  <li style="display: flex; align-items:center; justify-content:center; gap: 1rem; list-style: none;">
    <img  src="https://cdn-icons-png.flaticon.com/128/7328/7328746.png" width="30" height="30"/>
   <span style="" >I build APIs, web and desktop application</span>
  </li>
   <br/>
-  <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
+  <li style="display: flex; align-items:center; justify-content:center; gap: 1rem; list-style: none;">
     <img src="https://cdn-icons-png.flaticon.com/128/7773/7773975.png" width="30" height="30"/>
    <span>I am a lover of logic, physics and mathematics</span>
  </li>
   <br/>
-  <li style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
+ <li style="display: flex; align-items:center; justify-content:center; gap: 1rem; list-style: none;">
     <img src="https://cdn-icons-png.flaticon.com/128/3655/3655721.png" width="30" height="30"/>
    <span>Hobbies include: watching movies, listening to music and gaming</span>
  </li>
 </ul>
-
 <hr/>
+
 🧰 Toolbox 
 <p><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-file-html-shiny-icon-svg-wikimedia-commons-11.png" width="50" alt="html5 logo, file html <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-file-html-shiny-icon-svg-wikimedia-commons-11.png" width="50" height="50" alt="html5 logo, file html shiny icon svg wikimedia commons" /> <img src="https://iconape.com/wp-content/files/dj/370768/svg/370768.svg" width="50" height="50"/> <img src="https://iconape.com/wp-content/files/un/371197/svg/371197.svg" width="50" height="50"/> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" /><img src="https://iconape.com/wp-content/files/fh/110909/svg/typescript.svg" width="50" height="50"/>  <img src="https://iconape.com/wp-content/files/xn/371621/svg/371621.svg" width="50" height="50"/>
   <img src="https://iconape.com/wp-content/files/fo/371358/svg/371358.svg" width="50" height="50"/>  <img src="https://iconape.com/wp-content/files/ec/371378/svg/371378.svg" width="50" height="50"/>  <img src="https://iconape.com/wp-content/files/fe/83764/svg/nodejs-1.svg" width="50" height="50"/> <img src="https://iconape.com/wp-content/files/sw/371233/svg/371233.svg" height="50" width="50"/> <img src="https://iconape.com/wp-content/files/im/64767/svg/git.svg" height="50" width="50"/></p>
