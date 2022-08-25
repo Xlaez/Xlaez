@@ -28,6 +28,6 @@
 </div>
 <hr/>
 
-🧰 Toolbox 
-
+## 🧰 Toolbox 
+<strong>Below are a list of the tools, languages and frameworks I use :</strong>
   <p><a href="https://stackoverflow.com/users/18433959/xlaez-kamou">Link to Stack Overflow Profile</a></p>
