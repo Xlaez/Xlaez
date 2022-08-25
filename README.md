@@ -54,7 +54,10 @@
 
 <div style="display: flex; flex-direction: column;">
 <span>Web developer with Chrisean Global Resources June 2021</span>
+ <br/>
 <span>Backend developer at Future Labs October 2021 - February 2022</span>
+ <br/>
 <span>Software developer Intern at BBWE July 2022  till date</span>
-
+ <br/>
+</div>
 <span style="color: blue; ">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
