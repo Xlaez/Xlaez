@@ -32,12 +32,12 @@
 <span style="font-weight:700;">Below are a list of the technologies I use :</span>
 <div style="display: flex; align-items: center; gap: 1rem">
  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" width="40" height="40"/>
- <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/2x/css3.png" width="40" height="40"/>
  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="40" height="40"/>
  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40" height="40"/>
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sass_original_logo_icon_146350.png" width="40" height="40"/>
- <img src="https://t3.ftcdn.net/jpg/03/04/97/12/240_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg" width="40" height="40"/>
- <img src="https://cdn-icons-png.flaticon.com/128/1183/1183673.png" width="40" height="40"/>
+ <img src="https://img.icons8.com/plasticine/2x/react.png" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/2x/vue-js.png" width="40" height="40"/>
  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40" height="40"/>
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" width="40" height="40"/>
  <img src="https://cdn-icons-png.flaticon.com/128/4926/4926624.png" width="40" height="40"/>
