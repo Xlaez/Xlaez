@@ -17,7 +17,7 @@
  </div>
   <br/>
   <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
-   span>I am a lover of logic, physics and mathematics</span>
+   <span>I am a lover of logic, physics and mathematics</span>
     <img src="https://cdn-icons-png.flaticon.com/128/7773/7773975.png" width="30" height="30"/>
  </div>
   <br/>
@@ -28,7 +28,7 @@
 </div>
 <hr/>
 
-### 🧰 Toolbox 
+### Toolbox 🧰 
 <span style="font-weight:700;">Below are a list of the technologies I use :</span>
 <div style="display: flex; align-items: center; gap: 1rem">
  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" width="40" height="40"/>
@@ -47,10 +47,10 @@
 </div>
 <hr/>
 
-### Experience
+### Experience 👨🏿‍💼
 
-* Web developer with Chrisean Global Resources June 2021
-* Backend developer at Future Labs October 2021 - February 2022
-* Software developer Intern at BBWE July 2022  till date
+- Web developer with Chrisean Global Resources June 2021
+- Backend developer at Future Labs October 2021 - February 2022
+- Software developer Intern at BBWE July 2022  till date
 
 <span style="color: #040428; ">I have lots of projects, some which are available for public view feel free to dive in </span>
