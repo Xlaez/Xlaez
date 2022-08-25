@@ -28,6 +28,21 @@
 </div>
 <hr/>
 
-## 🧰 Toolbox 
-<strong>Below are a list of the tools, languages and frameworks I use :</strong>
+### 🧰 Toolbox 
+<span style="font-weight:700;">Below are a list of the technologies I use :</span>
+<div style="display: flex; align-items: center; gap: 1rem">
+ <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="40" height="40"/>
+ <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40" height="40"/>
+ <img src="https://t3.ftcdn.net/jpg/03/04/97/12/240_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg" width="40" height="40"/>
+ <img src="https://cdn-icons-png.flaticon.com/128/1183/1183673.png" width="40" height="40"/>
+ <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40" height="40"/>
+ <img src="" width="40" height="40"/>
+ <img src="" width="40" height="40"/>
+ <img src="" width="40" height="40"/>
+ <img src="" width="40" height="40"/>
+ <img src="" width="40" height="40"/>
+ <img src="" width="40" height="40"/>
+ <img src="" width="40" height="40"/>
+ <img src="" width="40" height="40"/>
+</div>
   <p><a href="https://stackoverflow.com/users/18433959/xlaez-kamou">Link to Stack Overflow Profile</a></p>
