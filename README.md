@@ -8,10 +8,10 @@
  <br/>
  <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
   <span style="" > My favourite programming language are typescript and go lang</span>
-  <div>
+  <span>https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.pnghttps://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
     <img src="https://img.icons8.com/color/2x/golang.png" height="30" width="30"/>
-    </div>
+    </span>
   </div>
   <br/>
   <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
@@ -41,7 +41,7 @@
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sass_original_logo_icon_146350.png" width="40" height="40"/>
  <img src="https://img.icons8.com/plasticine/2x/react.png" width="40" height="40"/>
  <img src="https://img.icons8.com/color/2x/golang.png" width="40" height="40"/>
- <img src="https://cdn-icons-png.flaticon.com/128/5969/5969059.png" width="40" height="40"
+ <img src="https://cdn-icons-png.flaticon.com/128/5969/5969059.png" width="40" height="40"/>
  <img src="https://img.icons8.com/color/2x/vue-js.png" width="40" height="40"/>
  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40" height="40"/>
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" width="40" height="40"/>
@@ -67,4 +67,3 @@
  <br/>
 </div>
 <span style="color: blue; ">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
-https://cdn-icons-png.flaticon.com/128/5969/5969059.png
