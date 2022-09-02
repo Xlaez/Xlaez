@@ -37,6 +37,7 @@
  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40" height="40"/>
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sass_original_logo_icon_146350.png" width="40" height="40"/>
  <img src="https://img.icons8.com/plasticine/2x/react.png" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/2x/golang.png" width="40" height="40"/>
  <img src="https://img.icons8.com/color/2x/vue-js.png" width="40" height="40"/>
  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40" height="40"/>
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" width="40" height="40"/>
