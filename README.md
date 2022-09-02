@@ -8,7 +8,7 @@
  <br/>
  <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
   <span style="" > My favourite programming language are typescript and go lang</span>
-  <span>https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.pnghttps://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png
+  <span>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
     <img src="https://img.icons8.com/color/2x/golang.png" height="30" width="30"/>
     </span>
