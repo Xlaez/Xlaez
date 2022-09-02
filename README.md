@@ -48,6 +48,7 @@
  <img src="https://cdn-icons-png.flaticon.com/128/4926/4926624.png" width="40" height="40"/>
  <img src="https://cdn-icons-png.flaticon.com/128/2111/2111288.png" width="40" height="40"/>
  <img src="https://www.electronjs.org/assets/img/logo.svg" width="40" height="40"/>
+ <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width="40" height="40"/>
  <img src="https://docs.nestjs.com/assets/logo-small.svg" width="40" height="40"/>
  <img src="https://img.icons8.com/color/2x/mongodb.png" width="40" height="40"/>
  <img src="https://img.icons8.com/color/2x/redis.png" width="40" height="40"/>
