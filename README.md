@@ -2,7 +2,7 @@
 <hr/>
 <div>
  <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
-  <span style="">My name is Utibe abasi and I am a software developer</span>
+  <span style="">My name is Utibeabasi and I am a software developer</span>
   <img  src="https://cdn-icons-png.flaticon.com/128/1049/1049443.png" width="30" height="30"/>
  </div>
  <br/>
