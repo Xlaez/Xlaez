@@ -66,14 +66,12 @@
 <span>Software developer Intern at BBWE July 2022  till date</span>
  <br/>
 </div>
-<span style="color: blue; ">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
+<span style="color: blue; padding-bottom: 20px;">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
 
 
-<div>
- <div style="float: left">
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlaez&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- </div>
-<div style="float: right">
+
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xlaez&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
- </div>
- </div>
+
