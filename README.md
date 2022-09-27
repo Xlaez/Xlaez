@@ -7,7 +7,7 @@
  </div>
  <br/>
  <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
-  <span style="" > My favourite programming language are typescript and go lang</span>
+  <span style="" > My favourite programming languages are typescript and go lang</span>
   <span>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
     <img src="https://img.icons8.com/color/2x/golang.png" height="30" width="30"/>
@@ -67,3 +67,5 @@
  <br/>
 </div>
 <span style="color: blue; ">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlaez)](https://github.com/anuraghazra/github-readme-stats)
