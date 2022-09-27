@@ -68,4 +68,5 @@
 </div>
 <span style="color: blue; ">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlaez)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlaez&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
