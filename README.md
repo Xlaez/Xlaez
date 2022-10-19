@@ -1,12 +1,12 @@
 ### Welcome!! 👋🏾👋🏾
 <hr/>
 <div>
- <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
+ <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
   <span style="">My name is Utibeabasi and I am a software developer</span>
   <img  src="https://cdn-icons-png.flaticon.com/128/1049/1049443.png" width="30" height="30"/>
  </div>
  <br/>
- <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
+ <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
   <span style="" > My favourite programming languages are typescript and go lang</span>
   <span>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
@@ -14,17 +14,17 @@
     </span>
   </div>
   <br/>
-  <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
+  <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
     <span style="" >I build APIs, web and desktop applications</span>
    <img  src="https://cdn-icons-png.flaticon.com/128/7328/7328746.png" width="30" height="30"/>
  </div>
   <br/>
-  <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
+  <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
    <span>I am a lover of logic, physics and mathematics</span>
     <img src="https://cdn-icons-png.flaticon.com/128/7773/7773975.png" width="30" height="30"/>
  </div>
   <br/>
- <div style="display: flex; align-items:center; justify-content:center; gap: 1rem;">
+ <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
   <span>Hobbies include: watching movies, listening to music and gaming</span>
     <img src="https://cdn-icons-png.flaticon.com/128/3655/3655721.png" width="30" height="30"/>
  </div>
@@ -63,7 +63,7 @@
  <br/>
 <span>Backend developer at Future Labs October 2021 - February 2022</span>
  <br/>
-<span>Software developer Intern at BBWE July 2022  till date</span>
+<span>Software developer at BBWE July 2022  till date</span>
  <br/>
 </div>
 <span style="color: blue; padding-bottom: 20px;">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
