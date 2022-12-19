@@ -63,8 +63,9 @@
  <br/>
 <span>Backend developer at Future Labs October 2021 - February 2022</span>
  <br/>
-<span>Software developer at BBWE July 2022  till date</span>
+<span>Software developer at BBWE July 2022 July 2022 - November 2022 </span>
  <br/>
+ <span>Lead backend developer at Readers Plug till date</span>
 </div>
 <span style="color: blue; padding-bottom: 20px;">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
 
