@@ -52,7 +52,6 @@
  <img src="https://docs.nestjs.com/assets/logo-small.svg" width="40" height="40"/>
  <img src="https://img.icons8.com/color/2x/mongodb.png" width="40" height="40"/>
  <img src="https://img.icons8.com/color/2x/redis.png" width="40" height="40"/>
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*TTM5AleQfFJ-mItttJROdg.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ashiqgiga07%2Fworking-with-mysql-dae8f149aa57&tbnid=710iCLHzmn_n2M&vet=12ahUKEwirwLqeibn8AhVxTqQEHV0hAs8QMygCegUIARDhAQ..i&docid=2HEBXYVVeR4kZM&w=900&h=400&q=image%20of%20mysql&client=ubuntu&ved=2ahUKEwirwLqeibn8AhVxTqQEHV0hAs8QMygCegUIARDhAQ" width="40" height="40"/>
 <hr/>
 
 ### Experience 👨🏿‍💼
