@@ -54,21 +54,6 @@
  <img src="https://img.icons8.com/color/2x/redis.png" width="40" height="40"/>
 <hr/>
 
-### Experience 👨🏿‍💼
-
-<div style="display: flex; flex-direction: column;">
-<span>Web developer with Chrisean Global Resources June 2021</span>
- <br/>
-<span>Backend developer at Future Labs October 2021 - February 2022</span>
- <br/>
-<span>Software developer at BBWE July 2022 July 2022 - November 2022 </span>
- <br/>
- <span>Lead backend developer at Readers Plug till date</span>
-</div>
-<span style="color: blue; padding-bottom: 20px;">I have lots of projects, some which are available for public view feel free to dive in ☺️</span>
-
-<hr/>
-
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlaez&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
