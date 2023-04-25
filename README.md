@@ -28,8 +28,8 @@
   <span>Hobbies include: watching movies, listening to music and gaming</span>
     <img src="https://cdn-icons-png.flaticon.com/128/3655/3655721.png" width="30" height="30"/>
  </div>
-</div>
 <br/>
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlaez&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
