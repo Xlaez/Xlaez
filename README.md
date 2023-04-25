@@ -15,7 +15,7 @@
   </div>
   <br/>
   <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
-    <span style="" >I build APIs, web and desktop applications</span>
+    <span style="" >I build APIs, web, blockchain and desktop applications</span>
    <img  src="https://cdn-icons-png.flaticon.com/128/7328/7328746.png" width="30" height="30"/>
  </div>
   <br/>
