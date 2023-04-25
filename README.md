@@ -25,33 +25,10 @@
  </div>
   <br/>
  <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
-  <span>Hobbies include: watching movies, listening to music and gaming</span>
+  <span>Hobbies include: Coding, listening to music and gaming</span>
     <img src="https://cdn-icons-png.flaticon.com/128/3655/3655721.png" width="30" height="30"/>
  </div>
 </div>
-<hr/>
-
-### Toolbox 🧰 
-<span style="font-weight:700;">Below are a list of the technologies I use :</span>
-<div style="display: flex; align-items: center; gap: 1rem">
- <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" width="40" height="40"/>
- <img src="https://img.icons8.com/color/2x/css3.png" width="40" height="40"/>
- <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="40" height="40"/>
- <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40" height="40"/>
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sass_original_logo_icon_146350.png" width="40" height="40"/>
- <img src="https://img.icons8.com/plasticine/2x/react.png" width="40" height="40"/>
- <img src="https://img.icons8.com/color/2x/golang.png" width="40" height="40"/>
- <img src="https://cdn-icons-png.flaticon.com/128/5969/5969059.png" width="40" height="40"/>
- <img src="https://img.icons8.com/color/2x/vue-js.png" width="40" height="40"/>
- <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40" height="40"/>
- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_node_icon_130301.png" width="40" height="40"/>
- <img src="https://cdn-icons-png.flaticon.com/128/4926/4926624.png" width="40" height="40"/>
- <img src="https://cdn-icons-png.flaticon.com/128/2111/2111288.png" width="40" height="40"/>
- <img src="https://www.electronjs.org/assets/img/logo.svg" width="40" height="40"/>
- <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width="40" height="40"/>
- <img src="https://docs.nestjs.com/assets/logo-small.svg" width="40" height="40"/>
- <img src="https://img.icons8.com/color/2x/mongodb.png" width="40" height="40"/>
- <img src="https://img.icons8.com/color/2x/redis.png" width="40" height="40"/>
 <hr/>
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlaez&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
