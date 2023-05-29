@@ -25,7 +25,7 @@
  </div>
   <br/>
  <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
-  <span>Hobbies include: watching movies, listening to music and gaming</span>
+  <span>Hobbies include: making & listening to music and gaming</span>
     <img src="https://cdn-icons-png.flaticon.com/128/3655/3655721.png" width="30" height="30"/>
  </div>
 <br/>
