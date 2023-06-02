@@ -1,4 +1,4 @@
-![dolphjs](https://raw.githubusercontent.com/Xlaez/Xlaez/kamou's/assets/dolphjs.png)
+![dolph](https://raw.githubusercontent.com/Xlaez/Xlaez/kamou's/assets/dolph.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Utibeabasi</h2>
 
