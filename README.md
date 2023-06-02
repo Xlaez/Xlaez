@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Web3 and Blockchain, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I listen to and make music, I also play video games.\
 💬 &nbsp;Feel free to reach out to me for any tech related conversation, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at utibeabasiakaninyene@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at utibeabasiakaninyene@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
