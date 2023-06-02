@@ -1,37 +1,47 @@
-### Welcome!! 👋🏾👋🏾
-<hr/>
-<div>
- <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
-  <span style="">My name is Utibeabasi and I am a software developer</span>
-  <img  src="https://cdn-icons-png.flaticon.com/128/1049/1049443.png" width="30" height="30"/>
- </div>
- <br/>
- <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
-  <span style="" > My favourite programming languages are typescript and go lang</span>
-  <span>
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="30" height="30"/>
-    <img src="https://img.icons8.com/color/2x/golang.png" height="30" width="30"/>
-    </span>
-  </div>
-  <br/>
-  <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
-    <span style="" >I build APIs, web, blockchain and desktop applications</span>
-   <img  src="https://cdn-icons-png.flaticon.com/128/7328/7328746.png" width="30" height="30"/>
- </div>
-  <br/>
-  <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
-   <span>I am a lover of logic, physics and mathematics</span>
-    <img src="https://cdn-icons-png.flaticon.com/128/7773/7773975.png" width="30" height="30"/>
- </div>
-  <br/>
- <div style="display:flex; align-items:center; justify-content:center; gap:1rem;">
-  <span>Hobbies include: making & listening to music and gaming</span>
-    <img src="https://cdn-icons-png.flaticon.com/128/3655/3655721.png" width="30" height="30"/>
- </div>
-<br/>
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlaez&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Utibeabasi</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Utibeabasi -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp;I'm on track for learning more about Web3 and Blockchain, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I listen to and make music, I also play video games.\
+💬 &nbsp;Feel free to reach out to me for any tech related conversation, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at utibeabasiakaninyene@gmail.com! I'll try to respond as soon as I can.\
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518);
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xlaez&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/Xlaez">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xlaez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xlaez&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://medium.com/@xlaezkamou"><img src="https://img.shields.io/badge/-medium.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/utibeabasi-ekong-09199722a/"><img src="https://img.shields.io/badge/-https://linkedin.com/in/utibeabasi-ekong-09199722a/?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:utibeabsiakaninyene@gmail.com"><img src="https://img.shields.io/badge/-utibeabasiakaninyene@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
