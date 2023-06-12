@@ -5,7 +5,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Utibeabasi -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-✍️ &nbsp; I am the creator of dolphjs.\
+✍️ &nbsp;I am the creator of dolphjs.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Web3 and Blockchain, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I listen to and make music, I also play video games.\
