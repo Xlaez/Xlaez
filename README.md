@@ -30,8 +30,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
-![Nuxt](https://img.shields.io/badge/Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
-![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
+![Nuxt](https://img.shields.io/badge/Nuxt-05122A?style=flat&logo=nuxtjs)&nbsp;
+![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nestjs)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
