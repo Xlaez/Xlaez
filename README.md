@@ -5,9 +5,9 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Utibeabasi -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-✍️ &nbsp;I am the creator of dolphjs.\
+✍️ &nbsp;I am the creator of [dolphjs](https://dolphjs.github.io/website).\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Web3 and Blockchain, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I'm on track to learn more on Web3 and Blockchain, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I listen to and make music, I also play video games.\
 💬 &nbsp;Feel free to reach out to me for any tech related conversation, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at utibeabasiakaninyene@gmail.com! I'll try to respond as soon as I can.
