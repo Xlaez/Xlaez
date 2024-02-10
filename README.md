@@ -12,6 +12,11 @@
 💬 &nbsp;Feel free to reach out to me for any tech related conversation, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at utibeabasiakaninyene@gmail.com! I'll try to respond as soon as I can.
 
+
+#### Ranked
+[![Xlaez' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xlaez\&rank_icon=percentile)]
+
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
