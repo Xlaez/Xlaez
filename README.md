@@ -1,7 +1,8 @@
 <!-- ![dolph](https://raw.githubusercontent.com/Xlaez/Xlaez/kamou's/assets/dolph.png) -->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey! I'm Utee, a Software Engineer.</h2>
-🛠 &nbsp; I have professional experiences in Blockchain Development, DevOps, Backend Engineering, Frontend Engineering, AI/ML Development (a little 😉).
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<h2>Hey! I'm Utee, A Software Engineer.</h2>
+🛠 &nbsp; I have professional experience in Blockchain Development, DevOps, System Design, Backend Engineering, Frontend Engineering, AI/ML Development (a little 😉).
 
 ### 🛠 &nbsp;Languages and tools I enjoy working with
 
@@ -29,4 +30,4 @@
 	<a href="https://github.com/farhan7reza7/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Xlaez&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
 </div>
 
-### Mail: <a href="mailto:utibeabsiakaninyene@gmail.com"><img src="https://img.shields.io/badge/-utibeabasiakaninyene@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:utibeabsiakaninyene@gmail.com"><img src="https://img.shields.io/badge/-utibeabasiakaninyene@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
