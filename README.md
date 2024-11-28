@@ -3,9 +3,9 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> -->
 <h2>Hey! I'm Utee, A Software Engineer.</h2>
 
-💻 I have professional experience in Blockchain Development, DevOps, System Design, Backend Engineering, Frontend Engineering, AI/ML Development (just a bit 😉).
+I have professional experience in Blockchain Development, DevOps, System Design, Backend Engineering, Frontend Engineering, AI/ML Development (just a bit 😉).
 
-💻 I am the author and lead maintainer of the [Dolph.js framework](https://dolphjs.com).
+I am the author and lead maintainer of the [Dolph.js framework](https://dolphjs.com).
 
 ### 🛠 &nbsp;Languages and tools I enjoy working with
 
