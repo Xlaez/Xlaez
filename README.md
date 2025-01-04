@@ -10,6 +10,7 @@ I am the author and lead maintainer of the [Dolph.js framework](https://dolphjs.
 ### 🛠 &nbsp;Languages and tools I enjoy working with
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
