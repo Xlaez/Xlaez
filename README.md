@@ -1,7 +1,8 @@
 <!-- ![dolph](https://raw.githubusercontent.com/Xlaez/Xlaez/kamou's/assets/dolph.png) -->
 <!-- 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> -->
-<h2>Software Engineer who enjoys understanding complex systems; I find beauty in complexity and display it with simplicity.</h2>
+<h3>Software Engineer who enjoys understanding complex systems; I find beauty in complexity and display it with simplicity.</h3>
+<p>I love reading white papers, documentation, and other people's code.</p>
 
 <!-- I have professional experience in Blockchain Development, DevOps, System Design, Backend Engineering, Frontend Engineering, AI/ML Development (just a bit 😉). -->
 
