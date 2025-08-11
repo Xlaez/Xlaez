@@ -6,7 +6,7 @@
 
 <!-- I have professional experience in Blockchain Development, DevOps, System Design, Backend Engineering, Frontend Engineering, AI/ML Development (just a bit 😉). -->
 
-[Chris](https://github.com/Chrisegbaaaibon) and I are the creators and lead maintainers of the [Dolph.js framework](https://dolphjs.com).
+[Chris](https://github.com/Chrisegbaaaibon) and I are the creators and lead maintainers of the [Dolph.js framework](https://github.com/dolphjs/dolph).
 
 ### 🛠 &nbsp;Languages and tools I enjoy working with
 
