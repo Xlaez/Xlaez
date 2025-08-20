@@ -42,13 +42,13 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=xla_ez&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=xlaez&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
 
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=xla_ez&count_private=true&include_all_commits=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=xlaez&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xla_ez&layout=compact" />
 </div>
