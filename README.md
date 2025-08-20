@@ -21,9 +21,9 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Open-Source](https://img.shields.io/badge/-Open%20Source-05122A?style=flat&logo=open-source-initiative)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<!---- ### ⚙️ &nbsp;GitHub Analytics -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/Xlaez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xlaez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xlaez&layout=compact&langs_count=8&theme=algolia"/>
@@ -38,4 +38,17 @@
 	<a href="https://github.com/farhan7reza7/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Xlaez&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
 </div>
 
-<a href="mailto:utibeabsiakaninyene@gmail.com"><img src="https://img.shields.io/badge/-utibeabasiakaninyene@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:utibeabsiakaninyene@gmail.com"><img src="https://img.shields.io/badge/-utibeabasiakaninyene@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
+</a>
+
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+</div>
