@@ -27,9 +27,12 @@
 <a href="https://github.com/Xlaez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xlaez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xlaez&layout=compact&langs_count=8&theme=algolia"/>
-  
 </a>
 </p>
+
+<div>
+	[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 #### Contributions
 <div align="center">
