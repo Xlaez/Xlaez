@@ -1,7 +1,7 @@
 <!-- ![dolph](https://raw.githubusercontent.com/Xlaez/Xlaez/kamou's/assets/dolph.png) -->
 <!-- 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> -->
-<h3>Software Engineer & Architect.</h3>
+<h3>Systems Architect.</h3>
 
 <!-- I have professional experience in Blockchain Development, DevOps, System Design, Backend Engineering, Frontend Engineering, AI/ML Development (just a bit 😉). -->
 
