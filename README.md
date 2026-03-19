@@ -32,29 +32,7 @@ Co-creator and lead maintainer of the [Dolph.js framework](https://github.com/do
 #### Contributions
 
 <div align="center">
-
-  <!-- Streak Stats -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Xlaez&hide_border=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=6c8ebf&background=272b30&sideLabels=6c8ebf&dates=7a8288"
-    alt="GitHub Streak"
-  />
-
-  <br/><br/>
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Xlaez&show_icons=true&hide_border=true&bg_color=272b30&title_color=6c8ebf&text_color=e9ecef&icon_color=6c8ebf&count_private=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlaez&layout=compact&hide_border=true&bg_color=272b30&title_color=6c8ebf&text_color=e9ecef&langs_count=6"
-    alt="Top Languages"
-    height="165"
-  />
-
+    <a href="https://github.com/farhan7reza7/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Xlaez&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
 </div>
 
 <a href="mailto:utibeabsiakaninyene@gmail.com"><img src="https://img.shields.io/badge/-utibeabasiakaninyene@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
