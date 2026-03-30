@@ -20,15 +20,6 @@ Co-creator and lead maintainer of the [Dolph.js framework](https://github.com/do
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Open-Source](https://img.shields.io/badge/-Open%20Source-05122A?style=flat&logo=open-source-initiative)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Xlaez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xlaez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xlaez&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 #### Contributions
 
 <div align="center">
