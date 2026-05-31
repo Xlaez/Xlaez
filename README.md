@@ -25,5 +25,3 @@ Co-creator and lead maintainer of the [Dolph.js framework](https://github.com/do
 <div align="center">
     <a href="https://github.com/farhan7reza7/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Xlaez&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
 </div>
-
-<a href="mailto:utibeabsiakaninyene@gmail.com"><img src="https://img.shields.io/badge/-utibeabasiakaninyene@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
