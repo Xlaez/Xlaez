@@ -6,6 +6,7 @@
 <!-- I have professional experience in Blockchain Development, DevOps, System Design, Backend Engineering, Frontend Engineering, AI/ML Development (just a bit 😉). -->
 
 Co-creator and lead maintainer of the [Dolph.js framework](https://github.com/dolphjs/dolph).
+Creator and lead maintainer of the [slang language](https://github.com/dolphlabs/slang).
 
 ### 🛠 &nbsp;Languages and tools I enjoy working with
 
