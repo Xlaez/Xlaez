@@ -23,11 +23,6 @@ Creator and lead maintainer of the [slang language](https://github.com/dolphlabs
 #### Stats & Contributions
 
 <div align="center">
-    <!-- Most Used Languages Card -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlaez&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=272b30" alt="Xlaez's Most Used Languages" />
-    </a>
-    <br /><br />
     <!-- Streak Stats Card -->
     <a href="https://github.com/farhan7reza7/diff-ymd-package.git">
         <img align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Xlaez&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" />
