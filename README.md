@@ -22,7 +22,7 @@ Creator and lead maintainer of the [slang language](https://github.com/dolphlabs
 
 #### Stats & Contributions
 
-<div align="center">
+<div align="left">
     <!-- Streak Stats Card -->
     <a href="https://github.com/farhan7reza7/diff-ymd-package.git">
         <img align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Xlaez&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" />
